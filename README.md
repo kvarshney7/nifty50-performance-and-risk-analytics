@@ -19,6 +19,7 @@ Advanced Risk Diagnostics: Integrated user-adjustable Simple and Exponential Mov
 Sectoral Heatmaps: Interactive visual matrices designed to isolate and compare performance across varying market sectors.
 
 Repository Structure
+
 /data: Contains the cleaned NSE datasets (Note: Raw data excluded for size/compliance).
 
 /scripts: Python notebooks detailing the EDA, data cleaning, and feature engineering processes.
